@@ -11,6 +11,11 @@ namespace BazaDz2_
     {
         private int ageLimit;
 
+        public AccessManager(int ageLimit)
+        {
+            AgeLimit = ageLimit;
+        }
+
         public int AgeLimit { get => ageLimit; set => ageLimit = (value >= 0 && value <= 130) ? value : ageLimit; }
 
         public bool Check(User user) {

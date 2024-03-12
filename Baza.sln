@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baza_F", "Baza_F\Baza_F.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazaDz2", "BazaDz2\BazaDz2.csproj", "{E3E29F16-9ECC-435E-A677-C85C88F5FACD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazaDz3", "BazaDz3\BazaDz3.csproj", "{36976654-BA6A-4BA8-9787-B171E21827F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E3E29F16-9ECC-435E-A677-C85C88F5FACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3E29F16-9ECC-435E-A677-C85C88F5FACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3E29F16-9ECC-435E-A677-C85C88F5FACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36976654-BA6A-4BA8-9787-B171E21827F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36976654-BA6A-4BA8-9787-B171E21827F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36976654-BA6A-4BA8-9787-B171E21827F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36976654-BA6A-4BA8-9787-B171E21827F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
